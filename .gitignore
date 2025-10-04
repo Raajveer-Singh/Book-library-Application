@@ -1,0 +1,28 @@
+# =====================
+# Node.js / Backend
+# =====================
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+
+
+# =====================
+# React / Frontend (Vite)
+# =====================
+
+
+# Dependency directories
+node_modules/
+
+
+# Vite cache
+.vite/
+
+# Editor directories
+.vscode/
+.idea/
+
