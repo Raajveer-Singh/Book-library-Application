@@ -111,35 +111,35 @@ Once both the backend and frontend are running:<br/><br/>
 You can now open your browser and start using the Book Library Web Application.<br/> <hr/>
 
 ### Landing Page
-![Landing Page](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20163831.png)
+![Landing Page](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20213834.png)
 <br/> <hr/>
 
 ### Admin Login Page
-![Admin Pagee](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20163901.png)
+![Admin Pagee](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20213811.png)
 <br/> <hr/>
 
 ### Login Form
-![Login Form](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164034.png)
+![Login Form](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20213858.png)
 <br/> <hr/>
 
 ### Registration Form
-![Registration Form](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+![Registration Form](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20213921.png)
 <br/> <hr/>
 
 ### User Login Page
-![User Login Page](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+![User Login Page](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20213944.png)
 <br/> <hr/>
 
 ### Add Book Functionality
-![Add Book Functionality](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+![Add Book Functionality](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20215619.png)
 <br/> <hr/>
 
 ### Borrow Book Functionality
-![Borrow Book Functionality](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+![Borrow Book Functionality](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20214000.png)
 <br/> <hr/>
 
 ### History Functionality
-![History Functionality](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+![History Functionality](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20214103.png)
 <br/> <hr/>
 
 
