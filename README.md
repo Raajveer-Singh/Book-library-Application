@@ -135,7 +135,7 @@ You can now open your browser and start using the Book Library Web Application.
 <br/> <hr/>
 
 ### Borrow Book Functionality
-![Borrow Book Functionality](https://github.com/Raajveer-Singh/Book-library-Application/blob/b49c9cbc9e42438c49b693e73596a7b7ecbda95e/frontend/screenshots/Screenshot%202025-10-04%20214000.png)
+![Borrow Book Functionality](https://github.com/Raajveer-Singh/Book-library-Application/blob/ba286e67b3ad3842f06bb87b6118aee6ee0aa5b4/frontend/screenshots/Screenshot%202025-10-04%20221627.png)
 <br/> <hr/>
 
 ### History Functionality
