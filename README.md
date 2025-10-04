@@ -53,7 +53,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Raajveer-Singh/Book-library-Application.git
-cd book-library-app
+cd Book_Library_App
 ```
 ## Install Dependencies
 Install dependencies for both the client and server:
