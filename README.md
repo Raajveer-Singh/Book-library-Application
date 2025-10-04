@@ -52,7 +52,7 @@ Follow these steps to set up and run the application on your local system:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Raajveer-Singh/book-library-app.git
+git clone https://github.com/Raajveer-Singh/Book-library-Application.git
 cd book-library-app
 ```
 ## Install Dependencies
