@@ -29,19 +29,19 @@ A **full-stack MERN web application** that allows users to manage a personal boo
 - Tracks book availability in real-time.
 
 ## Technologies Used
-- *Frontend*: React.js + Vite
-- *Backend*: Node.js with Express.js
-- *Database*: MongoDB
-- *Authentication*: JSON Web Tokens (JWT)
-- *Styling*: Tailwind CSS
-- *API Testing*: ThunderAPI (for backend API testing)
+- **Frontend**: React.js + Vite
+- **Backend**: Node.js with Express.js
+- **Database**: MongoDB
+- **Authentication**: JSON Web Tokens (JWT)
+- **Styling**: Cascading Style Sheets
+- **API Testing**: ThunderAPI (for backend API testing)
 
 ## Prerequisites
 Before running the application, ensure you have the following installed:
 
-- *Node.js* (v14+)
-- *npm* (v6+)
-- *MongoDB* (local instance or MongoDB Atlas)
+- Node.js (v14+)
+- npm (v6+)
+- MongoDB (local instance or MongoDB Atlas)
 
 ## Installation and Setup
 
@@ -52,13 +52,13 @@ Follow these steps to set up and run the application on your local system:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/book-library-app.git
+git clone https://github.com/Raajveer-Singh/book-library-app.git
 cd book-library-app
 ```
 ## Install Dependencies
 Install dependencies for both the client and server:
 
-For the Backend (server):
+For the **Backend** (server):
 Navigate to the backend folder and install the required dependencies:
 
 ```bash
@@ -66,7 +66,7 @@ cd backend
 npm install
 ```
 
-For the Frontend (client):
+For the **Frontend** (client):
 Navigate to the client folder and install the necessary dependencies:
 
 ```bash
@@ -79,8 +79,8 @@ In the server folder, create a .env file (if not already provided) with the foll
 
 ``` .env
 PORT = 5000
-MONGODB_URI=mongodb+srv://libraryAdmin:123@librarycluster.r3ucvpf.mongodb.net/
-JWT_SECRET=mysecretkey123
+MONGODB_URI = mongodb+srv://libraryAdmin:123@librarycluster.r3ucvpf.mongodb.net/
+JWT_SECRET = mysecretkey123
 ```
 
 ## Start the Application
@@ -105,25 +105,41 @@ npm run dev
 This will start the React frontend.
 
 ## Access the Application
-Once both the backend and frontend are running:<br/>
-Backend: The backend will be accessible at http://localhost:5000.<br/>
-Frontend: The frontend will be accessible at http://localhost:5173.<br/>
-You can now open your browser and start using the Task Manager Application.<br/> <hr/>
+Once both the backend and frontend are running:<br/><br/>
+**Backend**: The backend will be accessible at http://localhost:5000.<br/><br/>
+**Frontend**: The frontend will be accessible at http://localhost:5173.<br/><br/>
+You can now open your browser and start using the Book Library Web Application.<br/> <hr/>
 
-#### Signup Page
-![Signup Page](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20163831.png)
+### Landing Page
+![Landing Page](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20163831.png)
 <br/> <hr/>
 
-#### Login Page
-![Login Page](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20163901.png)
+### Admin Login Page
+![Admin Pagee](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20163901.png)
 <br/> <hr/>
 
-#### Update Functionality
-![Update Functionality](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164034.png)
+### Login Form
+![Login Form](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164034.png)
 <br/> <hr/>
 
-#### Main Page
-![Main Page](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+### Registration Form
+![Registration Form](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+<br/> <hr/>
+
+### User Login Page
+![User Login Page](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+<br/> <hr/>
+
+### Add Book Functionality
+![Add Book Functionality](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+<br/> <hr/>
+
+### Borrow Book Functionality
+![Borrow Book Functionality](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
+<br/> <hr/>
+
+### History Functionality
+![History Functionality](https://github.com/Raajveer-Singh/Task_Manager_App/blob/master/frontend/Screenshot%202024-11-29%20164216.png)
 <br/> <hr/>
 
 
