@@ -20,7 +20,7 @@ app.use('/api/books', bookRoutes);
 app.use('/api/borrow', borrowRoutes);
 
 // MongoDB Connection
-mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://libraryAdmin:123@librarycluster.r3ucvpf.mongodb.net/')
+mongoose.connect(process.env.MONGODB_URI)
   .then(() => console.log('Connected to MongoDB'))
   .catch(err => console.error('MongoDB connection error:', err));
 
